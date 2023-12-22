@@ -28,8 +28,3 @@ Continuous Quality
 Continuous Security
 Continuous Collaboration
 Continuous Improvement
-
-
-
-
-
