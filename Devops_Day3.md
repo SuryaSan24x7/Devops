@@ -1,6 +1,6 @@
 # Virtual Machines
 What is Server?
 Physical vs Virtual
-Hyperversor
-How to create vm?
+Hypervisor(Logical isolation)
+How to create vm?(vmware ,xen,virtualbox)
 Example->  
