@@ -13,6 +13,8 @@ Go to aws console ->Security Credentials->Access Key-> Create Access Key and sec
 
 ### Command -> aws configure 
 enter data , keep defaults to json and us region 1.
+cli commands->
+https://awscli.amazonaws.com/v2/documentation/api/latest/reference/index.html
 
 ### Command -> aws s3 ls 
 To view s3 instances
@@ -22,3 +24,11 @@ to create a s3 instance
 # AWS Cloud Formation Template
 https://github.com/awslabs/aws-cloudformation-templates
 on Console -> can be done using ui
+
+# AWS Script Automation
+### Using Python
+Boto3 Docs
+https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
+
+## Boto3 py script for listing ec2 instances->
+https://gist.github.com/ableasdale/8cb7a61cad3202e09bab3e11c4639133
