@@ -8,3 +8,4 @@
 ### nproc (CPU) 
 ### df -h (Disk used)
 ### top (For above memory,Disk and number of cpus)
+### echo "file content" > filename.extension
